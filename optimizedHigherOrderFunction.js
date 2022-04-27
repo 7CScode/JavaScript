@@ -1,5 +1,5 @@
 
-    // This way it obeys DRT- Don't Repeat Youself
+    // This way it obeys DRY- Don't Repeat Youself
     // And it is more readable and maintanable
 
     const radius = [3, 1, 2, 4];
